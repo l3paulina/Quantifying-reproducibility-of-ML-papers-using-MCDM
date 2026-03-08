@@ -1,0 +1,12 @@
+Paper number,Paper Title,Author,Data availability,Inclusion of a ReadMe,Trained model inclusion,Hyperparameter description,Training description,Paper readability,Code availability,The reproducibility factor from the dataset by Olszewski et al.,WSM_score,WSM_reproducible,Annotated_reproducible,Match
+271,WTAGRAPH: Web Tracking and Advertising Detection using Graph Neural Networks,"Zhiju Yang, Weiping Pei, Monchu Chen, Chuan Yue",0,0,0,0.5,0.5,1,0,1,0.285714286,0,1,FALSE
+461,DeepSteal: Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories,"Adnan Siraj Rakin, Md Hafizul Islam Chowdhuryy, Fan Yao, Deliang Fan",1,0,0,1,0.5,0.5,0,1,0.428571429,0,1,FALSE
+269,Model Stealing Attacks Against Inductive Graph Neural Networks,"Yun Shen, Xinlei He, Yufei Han, Yang Zhang",0.666666667,0,0,1,1,0.5,0,1,0.452380952,0,1,FALSE
+613,Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages,"Yun Lin, Ruofan Liu, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong",1,0.5,1,0.5,1,0.5,0,1,0.642857143,0,1,FALSE
+552,Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference,"Zhicong Huang, Wen-jie Lu, Cheng Hong, and Jiansheng Ding",0.666666667,0.5,0,0.5,0,1,1,1,0.523809524,0,1,FALSE
+459,DEEPCASE: Semi-Supervised Contextual Analysis of Security Events,"Thijs van Ede, Hojjat Aghakhani, Noah Spahn, Riccardo Bortolameotti, Marco Cova, Andrea Continella, Maarten van Steen, Andreas Peter, Christopher Kruegel, Giovanni Vigna",1,0.5,0,0.5,1,0.5,1,1,0.642857143,0,1,FALSE
+556,Khaleesi: Breaker of Advertising and Tracking Request Chains,"Umar Iqbal, Charlie Wolfe, Charles Nguyen, Steven Englehardt, Zubair Shafiq",0.666666667,0.5,0,0.5,1,1,0.5,1,0.595238095,0,1,FALSE
+257,AI/ML for Network Security: The Emperor has no Clothes,"Arthur S. Jacobs, Roman Beltiukov, Walter Willinger, Ronaldo A. Ferreira, Arpit Gupta, Lisandro Z. Granville",1,1,1,0.5,0.5,0.5,1,1,0.785714286,0,1,FALSE
+740,Improving Password Guessing via Representation Learning,"Dario Pasquini, Ankit Gangwal, Giuseppe Ateniese, Massimo Bernaschi, Mauro Conti",0.666666667,0,0,1,1,1,0,1,0.523809524,0,1,FALSE
+80,"Privacy Risks of Securing Machine Learning Models against
+Adversarial Examples","Liwei Song, Reza Shokri, Prateek Mittal",0.666666667,0,0,1,1,0.5,1,1,0.595238095,0,1,FALSE
