@@ -30,8 +30,11 @@ The new dataset created from sampling a subset of from D. Olszewski, et al., con
 ### 1. Code for Dataset 1 Analysis.ipynb
 The code for the data analysis: exploratory data analysis, hypothesis testing, logistic regression and classification tasks with the dataset 1, from D. Olszewski, et al. Additionally, the random sampling is shown to sample a subset of the dataset 1, containing 139 research papers, described in section 3.2, used in the evaluation and example analyses of the created quantitative reproducibility measure with WSM and TOPSIS for machine learning research papers. The code is provided with the outputs.
 
-### 1. Code for Dataset 2 Analysis.ipynb
+### 2. Code for Dataset 2 Analysis.ipynb
 The code for the data analysis: exploratory data analysis, hypothesis testing, logistic regression and classification tasks with the dataset 2, from E. Raff. The code is provided with the outputs.
 
-### 1. Code for Evaluation and Example Analyses.ipynb
-The code for the evaluation and example analyses of the created quantitative reproducibility measure with WSM for machine learning research papers. The code is provided with the outputs.
+### 3. Code for Evaluation and Example Analyses.ipynb
+The code for the evaluation and example analyses of the created quantitative reproducibility measure with WSM and TOPSIS for machine learning research papers. The code is provided with the outputs.
+
+### 4. Code for Cohen's kappa calculation.ipynb
+The code for the Cohen's kappa calculation to assess annotation reliability, inter-annotator agreement between human and ChatGPT-assisted annotations. The code is provided with the outputs.
