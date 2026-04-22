@@ -34,7 +34,7 @@ The code for the data analysis: exploratory data analysis, hypothesis testing, l
 The code for the data analysis: exploratory data analysis, hypothesis testing, logistic regression and classification tasks with the dataset 2, from E. Raff. The code is provided with the outputs.
 
 ### 3. Code for Evaluation and Example Analyses.ipynb
-The code for the evaluation and example analyses of the created quantitative reproducibility measure with WSM and TOPSIS for machine learning research papers. In addition, the code includes the evaluation of simple single/two-criterion baseline models (code availability, data availability, code OR data, and code AND data) The code is provided with the outputs.
+The code for the evaluation and example analyses of the created quantitative reproducibility measure with WSM and TOPSIS for machine learning research papers. In addition, the code includes the evaluation of simple single/two-criterion baseline models (code availability, data availability, code OR data, and code AND data) and a sensitivity analysis for the AHP derived weights. The code is provided with the outputs.
 
 ### 4. Code for Cohen's kappa calculation.ipynb
 The code for the Cohen's kappa calculation to assess annotation reliability, inter-annotator agreement between human and ChatGPT-assisted annotations. The code is provided with the outputs.
